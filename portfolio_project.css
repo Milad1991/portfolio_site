@@ -22,3 +22,12 @@ html {
   font-family: lobster;
   color: #00b8d4;
 }
+.footer-section {
+  text-align: center;
+  font-family: doppio one;
+  color: #000000;
+}
+.footer-section a{
+  color: #000000;
+  padding: 10px;
+}
